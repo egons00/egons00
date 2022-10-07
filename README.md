@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @egons00
+- 👋 Hi, I’m Egons
 - 👀 I’m interested in Data Analytics, Fintech and Fraud Analysis
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on analytics
