@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Egons
-- 👀 I’m interested in Data Engineering, DWH Development, Fintech and Fraud Analysis
-- 💞️ I’m looking to collaborate on engineering
+- 👀 I’m interested in Data Engineering, DWH Development
 - 📫 How to reach me - egons.spalans@gmail.com
 
 <!---
